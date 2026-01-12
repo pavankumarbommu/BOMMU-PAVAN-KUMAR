@@ -31,7 +31,7 @@ I maintain clean, well-documented repositories and continuously improve my skill
 **Machine Learning & AI**
 - Supervised & Unsupervised Learning
 - Model Evaluation & Optimization
-- Explainable ML (Feature Importance, SHAP – Basics)
+- Explainable ML (Feature Importance)
 - NLP & Deep Learning (Foundations)
 - Generative AI (Foundations)
 
@@ -79,3 +79,5 @@ To work in a challenging Data Science / AI role where I can:
 - Hugging Face: https://huggingface.co/PavanKumarBommu
 
 - Email: pavankumarbomu7569@gmail.com
+
+- x: https://x.com/PavanBommu
