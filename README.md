@@ -1,33 +1,67 @@
+# 🟢 PAVAN KUMAR
 
-# 👋 Hi, I'm Pavan Kumar
+### `AI ENGINEER • DATA SCIENCE • PYTHON FULL STACK`
 
-### AI Engineer · Data Science · Python Full Stack
+<div align="center">
 
-Building practical AI applications, machine learning models, and data-driven products.
+<img src="https://github.com/pavankumarbommu.png" width="150" alt="Pavan Kumar" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2400&pause=700&color=00FF41&center=true&vCenter=true&width=700&lines=%3E+Wake+up%2C+Pavan...;%3E+Building+AI+that+solves+real+problems;%3E+Python+%7C+Machine+Learning+%7C+Data;%3E+Initializing+the+next+project..." alt="Matrix green terminal animation" />
+
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## `// SYSTEM PROFILE`
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+```text
+USER    : Pavan Kumar
+ROLE    : Aspiring AI Engineer
+FOCUS   : Data Science | Machine Learning
+STACK   : Python | FastAPI | Data Analytics
+MISSION : Build practical AI applications
+STATUS  : LEARNING • BUILDING • IMPROVING
+```
 
-## 📊 GitHub Analytics
+## `// TECH STACK`
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pavankumarbommu&show_icons=true&theme=tokyonight&hide_border=true)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FF41)
+![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=00FF41)
+![NumPy](https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=00FF41)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=00FF41)
+![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=00FF41)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00FF41)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pavankumarbommu&layout=compact&theme=tokyonight&hide_border=true)
-
-## 🚀 Featured Projects
+## `// PROJECTS IN THE GRID`
 
 - [Sales Performance Analysis](https://github.com/pavankumarbommu/sales-performance-analysis)
 - [Sleep Disorder Prediction](https://github.com/pavankumarbommu/Predicting-Sleep-Disorders)
 - [Accident Severity Prediction](https://github.com/pavankumarbommu/Accident-Severity-Prediction)
 
-## 📫 Connect With Me
+## `// GITHUB TELEMETRY`
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pavankumarbommu)
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=pavankumarbommu&show_icons=true&hide_border=true&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9&bg_color=0D1117" alt="GitHub stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavankumarbommu&layout=compact&hide_border=true&title_color=00FF41&text_color=C9D1D9&bg_color=0D1117" alt="Top languages" />
+
+</div>
+
+## `// CONTRIBUTION MATRIX`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pavankumarbommu&bg_color=0d1117&color=00ff41&line=00ff41&point=39ff14&area=true&hide_border=true" width="100%" alt="Matrix green GitHub activity graph" />
+
+</div>
+
+## `// CONNECT`
+
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/pavankumarbommu)
+
+<div align="center">
+
+`ACCESS GRANTED // KEEP BUILDING. KEEP LEARNING.`
+
+</div>
