@@ -1,83 +1,33 @@
-# Pavan Kumar Bommu
-**Data Scientist | AI Engineer | Machine Learning Specialist**
 
-Building reliable data-driven systems that translate business problems into measurable impact.
+# 👋 Hi, I'm Pavan Kumar
 
----
+### AI Engineer · Data Science · Python Full Stack
 
-## Profile
-
-I am a Data Scientist and AI Engineer with strong expertise in **data analysis, machine learning, and business intelligence**.  
-My focus is on designing **end-to-end analytical solutions**, developing **interpretable ML models**, and delivering **actionable insights** that support strategic decision-making.
-
-I maintain clean, well-documented repositories and continuously improve my skills across modern data and AI technologies.
+Building practical AI applications, machine learning models, and data-driven products.
 
 ---
 
-## Core Skills
+## 🛠️ Tech Stack
 
-**Programming & Databases**
-- Python
-- SQL
-- Advanced Excel
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-**Data Science & Analytics**
-- Exploratory Data Analysis (EDA, Numpy, pandas)
-- Feature Engineering
-- Statistics & Probability
-- Hypothesis Testing
-- Time Series (Foundations)
+## 📊 GitHub Analytics
 
-**Machine Learning & AI**
-- Supervised & Unsupervised Learning
-- Model Evaluation & Optimization
-- Explainable ML (Feature Importance)
-- NLP & Deep Learning (Foundations)
-- Generative AI (Foundations)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pavankumarbommu&show_icons=true&theme=tokyonight&hide_border=true)
 
-**Visualization & BI**
-- Power BI (Data Modeling, DAX)
-- Tableau
-- Matplotlib, Seaborn
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pavankumarbommu&layout=compact&theme=tokyonight&hide_border=true)
 
-**Tools**
-- Git & GitHub
-- Jupyter Notebook
-- VS Code
-- Colab
+## 🚀 Featured Projects
 
----
+- [Sales Performance Analysis](https://github.com/pavankumarbommu/sales-performance-analysis)
+- [Sleep Disorder Prediction](https://github.com/pavankumarbommu/Predicting-Sleep-Disorders)
+- [Accident Severity Prediction](https://github.com/pavankumarbommu/Accident-Severity-Prediction)
 
-## Projects
+## 📫 Connect With Me
 
-My repositories focus on:
-- End-to-end data science workflows  
-- Machine learning models with clear evaluation metrics  
-- Business intelligence dashboards for decision-makers  
-
-Each project includes:
-- Problem statement
-- Methodology
-- Clean, reproducible code
-- Insights and conclusions
-
----
-
-## Career Objective
-
-To work in a challenging Data Science / AI role where I can:
-- Solve complex analytical problems
-- Build scalable machine learning solutions
-- Contribute to data-driven product and business growth
-
----
-
-## Contact
-
-- LinkedIn: www.linkedin.com/in/pavan-kumar-bommu-1a312b267
-  
-- Hugging Face: https://huggingface.co/PavanKumarBommu
-
-- Email: pavankumarbomu7569@gmail.com
-
-- x: https://x.com/PavanBommu
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pavankumarbommu)
